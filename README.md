@@ -24,7 +24,7 @@ There are some general library requirements for the project and some which are s
 The library requirements specific to some methods are:
 * `xgboost` for XGBoost.
 
-**Note**: It is recommended to use Anaconda distribution of Python.
+**Note**: It is recommended to use Anaconda distribution of Python. It already have lot of prebuild libraries installed.
 
 ## Information about files
 
